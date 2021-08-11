@@ -4,7 +4,7 @@
  - 👨‍🎓 At present, study in high-school and graduated from **Samsung It School**
  - 🔎 Learing C#, Game-design, Unity development
  - 📌 Looking for a new projects, new opportunities and some creative emoji
- - ⚙️ Interested in **applications, games development" and self-development too
+ - ⚙️ Interested in **applications, games development" and self-development too**
  - 🤟 In my spare time prefer to spend time in playing volleyball, reading books, modelling in Blender, trying something new for me.
  - 🎵 Like R&B and Alternative music, love organize and manage something
 
